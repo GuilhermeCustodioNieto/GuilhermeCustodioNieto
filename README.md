@@ -2,7 +2,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GuilhermeCustodioNieto&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeCustodioNieto&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCustodioNieto&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 # 💫 About Me:
 👋 Hi, I’m @GuilhermeCustodioNieto<br>👀 I’m interested in program in the front-end part: HTML, CSS and JS. Java, and Python on the backend part<br>🌱 I’m currently learning python (process automation and AI), and Java (for general back-end development), in addition to the front-end using HTML, CSS and JavaScript.<br>💞️ I’m looking to collaborate on back-end or full-stack development in future projects<br>📫 How to reach me: email: guilhermecustodionieto@gmail.com

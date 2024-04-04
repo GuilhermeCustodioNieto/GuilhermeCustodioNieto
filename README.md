@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560bad&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=810EF7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Custodio+Nieto;I'm+16+years+old;I'm+from+São+Paulo,+Brazil;I+study+System+Development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -12,6 +12,9 @@
 ![Guilherme Custódio Nieto stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCustodioNieto\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeCustodioNieto&theme=midnight-purple)](https://git.io/streak-stats)
+
+![Snake animation](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
@@ -110,4 +113,3 @@
 
 <br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560bad&height=120&section=footer"/>

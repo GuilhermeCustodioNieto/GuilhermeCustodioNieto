@@ -68,6 +68,8 @@
 
 - 📫 How to reach me **guilhermecustodionieto@gmail.com**
 
+- 🥇 1st place at ETEC Cidade Tiradentes in the Systems Development course.
+
 <!-- - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume) -->
 
 <br>

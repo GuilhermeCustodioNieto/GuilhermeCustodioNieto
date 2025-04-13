@@ -11,6 +11,8 @@
  
 ![Guilherme Custódio Nieto stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCustodioNieto\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeCustodioNieto&theme=midnight-purple)](https://git.io/streak-stats)
+
 ![Snake animation](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady/blob/output/github-contribution-grid-snake.svg)
 
 

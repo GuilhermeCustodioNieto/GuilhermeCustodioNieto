@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=810EF7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Custodio+Nieto;I'm+16+years+old;I'm+from+São+Paulo,+Brazil;I+study+System+Development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=810EF7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Custodio+Nieto;I'm+17+years+old;I'm+from+São+Paulo,+Brazil;I+study+System+Development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 

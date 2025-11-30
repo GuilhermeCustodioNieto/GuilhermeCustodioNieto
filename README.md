@@ -5,7 +5,7 @@
 ## Sobre mim  
 
 Sou **Desenvolvedor Back-End** apaixonado por tecnologia e criação de soluções escaláveis.  
-Atualmente estudo **Desenvolvimento de Sistemas na ETEC Cidade Tiradentes**, onde conquistei o **1º lugar no processo seletivo em 2023**.  
+Sou técnico em **Desenvolvimento de Sistemas na ETEC Cidade Tiradentes**, onde conquistei o **1º lugar no processo seletivo em 2023**.  
 Tenho experiência prática em **APIs, bancos de dados relacionais e NoSQL, autenticação com JWT, Docker e AWS em estudos**.  
 
 ---

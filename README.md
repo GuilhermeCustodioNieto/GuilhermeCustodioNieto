@@ -1,80 +1,99 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=810EF7FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilherme+Custódio+Nieto;Tenho+18+anos;São+Paulo,+Brasil;Estudante+de+Desenvolvimento+de+Sistemas+na+ETEC;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+<div align="center">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+# Guilherme Custódio Nieto
 
-## Sobre mim  
+**Desenvolvedor Full Stack · Foco em Back-End Java & Node.js**
 
-Sou **Desenvolvedor Back-End** apaixonado por tecnologia e criação de soluções escaláveis.  
-Sou técnico em **Desenvolvimento de Sistemas na ETEC Cidade Tiradentes**, onde conquistei o **1º lugar no processo seletivo em 2023**.  
-Tenho experiência prática em **APIs, bancos de dados relacionais e NoSQL, autenticação com JWT, Docker e AWS em estudos**.  
+São Paulo, Brasil — [guilhermecustodionieto@gmail.com](mailto:guilhermecustodionieto@gmail.com)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-custodio-nieto/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portifolio-guilherme-custodio-nietos-projects.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermecustodionieto@gmail.com)
 
-## Onde me encontrar  
-
-<div align="center"> 
-  <a href="https://instagram.com/guih_nieto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:guilhermecustodionieto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/guilherme-custódio-nieto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
 
-## Tecnologias e Ferramentas  
+## Sobre
 
-### 🔹 Back-End  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)&nbsp;
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+Desenvolvedor com foco em back-end, construindo APIs REST com Java/Spring Boot e Node.js/NestJS. Experiência prática com autenticação, bancos de dados relacionais e NoSQL, containerização com Docker e cloud na AWS.
 
-### 🔹 Front-End  
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+Técnico em Desenvolvimento de Sistemas (ETEC — 1º lugar no processo seletivo de 2023), atualmente cursando Bacharelado em Ciência e Tecnologia na UFABC e Desenvolvimento Full Stack no Instituto PROA/Senac.
 
-### 🔹 Banco de Dados  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-### 🔹 DevOps & Cloud  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-
-### 🔹 Outras  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+Participante da Olimpíada Brasileira de Informática (OBI). Aberto a oportunidades de estágio em desenvolvimento back-end ou full stack.
 
 ---
 
-## Estatísticas do GitHub  
+## Stack Principal
+
+**Back-End**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Front-End**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Banco de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**DevOps & Ferramentas**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+---
+
+## Projetos em Destaque
+
+### [FinTrack API](https://github.com/GuilhermeCustodioNieto) — Sistema de Gestão Financeira
+> API REST para controle de receitas, despesas e metas financeiras com relatórios por período e categoria.
+
+`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Docker` `Swagger` `JUnit`
+
+---
+
+### [Somnium — Plataforma Paggie](https://github.com/GuilhermeCustodioNieto) — E-commerce
+> Plataforma de e-commerce desenvolvida em projeto colaborativo com equipe de 10 desenvolvedores. Responsável pela arquitetura e organização técnica do back-end.
+
+`Node.js` `NestJS` `TypeScript` `SQL Server` `Docker` `AWS` `React` `Next.js`
+
+---
+
+### [GL Crypto](https://github.com/GuilhermeCustodioNieto) — Simulador de Criptomoedas
+> Aplicação full stack para simulação de mercado de criptomoedas com autenticação segura e documentação de API.
+
+`Node.js` `Express` `MySQL` `JWT` `Bcrypt` `Swagger` `HTML` `CSS` `JavaScript`
+
+---
+
+## Formação
+
+| Instituição | Curso | Período |
+|---|---|---|
+| UFABC | Bacharelado em Ciência e Tecnologia | 2026 – 2028 |
+| Instituto PROA / Senac | Desenvolvimento Full Stack | Jan – Jul 2026 |
+| ETEC Cidade Tiradentes | Técnico em Desenvolvimento de Sistemas | 2023 – 2025 |
+
+---
 
 <div align="center">
 
-![Status de Guilherme Custódio Nieto](https://github-readme-stats.vercel.app/api?username=GuilhermeCustodioNieto&theme=midnight-purple&show_icons=true&hide=issues,contribs)  
-![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeCustodioNieto&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true)
+**Disponível para estágio · São Paulo, SP**
 
-![Animação de cobra](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady/blob/output/github-contribution-grid-snake.svg)
+[![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-custodio-nieto/)
 
 </div>
-
----
-
-## Conquistas  
-
-- 🥇 1º lugar no processo seletivo da **ETEC Cidade Tiradentes** (Desenvolvimento de Sistemas – 2023).  
-- 💻 Participação na **Olimpíada Brasileira de Informática (OBI)**, chegando à fase final.  
-- 🚀 Projetos pessoais em **APIs e sistemas escaláveis**.  
-
----
-
-<h3 align="center">Sempre aberto a novas oportunidades de aprendizado e colaboração!</h3>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

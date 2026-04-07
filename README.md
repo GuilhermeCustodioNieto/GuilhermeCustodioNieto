@@ -59,21 +59,22 @@ Participante da Olimpíada Brasileira de Informática (OBI). Aberto a oportunida
 
 ## Projetos em Destaque
 
-### [FinTrack API](https://github.com/GuilhermeCustodioNieto) — Sistema de Gestão Financeira
+### [FinTrack API](https://github.com/GuilhermeCustodioNieto/FinTrack-API) — Sistema de Gestão Financeira
 > API REST para controle de receitas, despesas e metas financeiras com relatórios por período e categoria.
 
 `Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Docker` `Swagger` `JUnit`
 
 ---
 
-### [Somnium — Plataforma Paggie](https://github.com/GuilhermeCustodioNieto) — E-commerce
+### [Somnium — Plataforma Paggie](https://github.com/GuilhermeCustodioNieto/Paggie-Backend-TCC) — E-commerce
 > Plataforma de e-commerce desenvolvida em projeto colaborativo com equipe de 10 desenvolvedores. Responsável pela arquitetura e organização técnica do back-end.
 
 `Node.js` `NestJS` `TypeScript` `SQL Server` `Docker` `AWS` `React` `Next.js`
 
+
 ---
 
-### [GL Crypto](https://github.com/GuilhermeCustodioNieto) — Simulador de Criptomoedas
+### [GL Crypto](https://github.com/GuilhermeCustodioNieto/GL-Crypto) — Simulador de Criptomoedas
 > Aplicação full stack para simulação de mercado de criptomoedas com autenticação segura e documentação de API.
 
 `Node.js` `Express` `MySQL` `JWT` `Bcrypt` `Swagger` `HTML` `CSS` `JavaScript`

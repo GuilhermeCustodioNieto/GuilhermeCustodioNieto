@@ -85,6 +85,7 @@ Finalista da Olimpíada Brasileira de Informática (OBI). Aberto a oportunidades
 
 | Instituição | Curso | Período |
 |---|---|---|
+| UFABC | Bacharelado em Ciência da Computação | 2026 – 2030 |
 | UFABC | Bacharelado em Ciência e Tecnologia | 2026 – 2028 |
 | Instituto PROA / Senac | Desenvolvimento Full Stack | Jan – Jul 2026 |
 | ETEC Cidade Tiradentes | Técnico em Desenvolvimento de Sistemas | 2023 – 2025 |

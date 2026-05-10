@@ -18,7 +18,7 @@ São Paulo, Brasil — [guilhermecustodionieto@gmail.com](mailto:guilhermecustod
 
 Desenvolvedor com foco em back-end, construindo APIs REST com Java/Spring Boot e Node.js/NestJS. Experiência prática com autenticação, bancos de dados relacionais e NoSQL, containerização com Docker e cloud na AWS.
 
-Técnico em Desenvolvimento de Sistemas (ETEC — 1º lugar no processo seletivo de 2023), atualmente cursando Bacharelado em Ciência e Tecnologia na UFABC e Desenvolvimento Full Stack no Instituto PROA/Senac.
+Técnico em Desenvolvimento de Sistemas (ETEC — 1º lugar no processo seletivo de 2023), atualmente cursando Bacharelado em Ciência da Computação na UFABC e Desenvolvimento Full Stack no Instituto PROA/Senac.
 
 Finalista da Olimpíada Brasileira de Informática (OBI). Aberto a oportunidades de estágio em desenvolvimento back-end ou full stack.
 
